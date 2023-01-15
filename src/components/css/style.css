@@ -1,0 +1,38 @@
+.box{
+    
+    height: 400px;
+    width: 340px;
+    background-color: rgb(122, 142, 233);
+    margin-left: 40%;
+   margin-top: 8%;
+   border-radius: 9px 9px 9px 9px;     
+}
+
+
+.inputField{
+    height: 30px;
+    width: 170px;
+    border:none;
+    margin-top: 10%;
+    margin-left: 85px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 20px;
+}
+.noData{
+    margin-left: 33%;
+}
+
+.location{
+    margin-left: 30%;
+    margin-top:40px ;
+    font-weight: 625;
+    font-size: 1.7em;
+}
+.temp{
+    margin-left: 30%;
+}
+.tempmin_max{
+    margin-left: 18%;
+}
+
+
